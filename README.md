@@ -1,4 +1,5 @@
-ESP32 Wroom with Screen and GPIO Extension
+ESP32 Wroom with Screen and GPIO Extension.
+
 For those who want to build a project using the ESP32 and an integrated 320×240 pixel screen, there is a range of very interesting boards available. They come with either a resistive or capacitive touchscreen.
 
 Resistiv touchscreen
