@@ -25,7 +25,7 @@ For those who want to build a project using the ESP32 and an integrated 320×240
     - Back Light gpio 21
     
     
-## Capacitiv Touchscreen
+## Capacitive Touchscreen
 
   - ESP32-2432S024
     - Display 2.4′
